@@ -1,2 +1,2 @@
-# Git-project-0x01
-I am an ALX Student and this is my first repository as a software engineer
+# alx-pre_course
+I am an ALX Student, this is my first reposity as a full-stack engineer
